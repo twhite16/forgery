@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+New HUB Cloud Training docs page (#8174)
