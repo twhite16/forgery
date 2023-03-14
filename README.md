@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Update neural-magic.md (#7347)
