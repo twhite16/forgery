@@ -1,1 +1,1 @@
-ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
+Add https://youtu.be/uDrn9QZJ2lk and object_counting.py, ai_gym.py updates (#9265)
