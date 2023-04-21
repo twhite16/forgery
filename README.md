@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
