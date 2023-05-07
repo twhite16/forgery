@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
