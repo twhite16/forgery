@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
