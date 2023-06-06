@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Explorer with LanceDB, Actions and Docs updates (#7487)
