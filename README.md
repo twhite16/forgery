@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Rename model_id to model.id (#8447)
