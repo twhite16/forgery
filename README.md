@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+New HUB Cloud Training docs page (#8174)
