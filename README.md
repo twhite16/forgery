@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add simple-utilities.md Docs page (#8269)
