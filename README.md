@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
