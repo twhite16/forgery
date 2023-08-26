@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Add PaddlePaddle Docs Integrations Page (#8858)
