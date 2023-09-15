@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add estimate_speed(region_color) parameter (#8285)
