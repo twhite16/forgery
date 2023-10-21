@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Fix cmake requirements for ARM64 (#8589)
