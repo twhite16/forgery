@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
