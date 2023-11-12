@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
