@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+ultralytics 8.0.233 improve Classify train augmentations (#4546)
