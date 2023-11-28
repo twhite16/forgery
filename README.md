@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Updating a typo on paddlepaddle.md (#9108)
