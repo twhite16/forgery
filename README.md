@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
