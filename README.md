@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
