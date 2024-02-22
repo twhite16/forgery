@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Add missing single-line docstrings (#8362)
