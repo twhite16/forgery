@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
