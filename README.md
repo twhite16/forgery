@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Add Amazon Sagemaker Docs integrations page (#7293)
