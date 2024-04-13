@@ -1,1 +1,1 @@
-fix non-coco val
+Compress docs images (#8124)
