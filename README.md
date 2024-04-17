@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
