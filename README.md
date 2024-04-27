@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
