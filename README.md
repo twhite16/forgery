@@ -1,1 +1,1 @@
-ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
