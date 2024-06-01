@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Optimize TFJS export on ARM64 (#8946)
