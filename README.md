@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Batch inference fixes (#8854)
