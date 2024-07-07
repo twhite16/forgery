@@ -1,1 +1,1 @@
-ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
