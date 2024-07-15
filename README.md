@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Feature: Create HUB Models from CLI or Python Script (#7316)
