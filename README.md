@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
