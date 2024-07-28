@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
