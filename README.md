@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
