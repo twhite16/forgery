@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+OBB: Fix when training on zip data (#8680)
