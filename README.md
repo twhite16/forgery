@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+docs: update view-results-in-terminal.md (#66)
