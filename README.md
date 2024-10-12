@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+fix predict with class filter
